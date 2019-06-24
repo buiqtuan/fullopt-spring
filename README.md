@@ -8,3 +8,4 @@ Tech stack: Spring Boot + Thymeleaf + Hibernate + MySQL
 - Grant permission for user.
 - Push noti for user.
 - Chat between users.
+- Upload/delete image, files.
